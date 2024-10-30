@@ -1,0 +1,2 @@
+# ext-assimp
+assimp extension
