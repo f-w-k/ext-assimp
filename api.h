@@ -7,7 +7,7 @@
 #include "inc/cimport.h"
 #include "inc/scene.h"
 #include "inc/postprocess.h"
-#pragma comment(lib, "ext/f-w-k/ext-assimp/x64/assimp")
+#pragma comment(lib, "ext/fwk3d/ext-assimp/x64/assimp")
 
 #ifdef __cplusplus
 extern "C" {
